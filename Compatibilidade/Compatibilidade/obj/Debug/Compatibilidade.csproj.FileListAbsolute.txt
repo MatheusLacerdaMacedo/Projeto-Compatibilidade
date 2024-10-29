@@ -1,0 +1,7 @@
+D:\Projetos C#\Compatibilidade\Compatibilidade\bin\Debug\Compatibilidade.exe.config
+D:\Projetos C#\Compatibilidade\Compatibilidade\bin\Debug\Compatibilidade.exe
+D:\Projetos C#\Compatibilidade\Compatibilidade\bin\Debug\Compatibilidade.pdb
+D:\Projetos C#\Compatibilidade\Compatibilidade\obj\Debug\Compatibilidade.csproj.AssemblyReference.cache
+D:\Projetos C#\Compatibilidade\Compatibilidade\obj\Debug\Compatibilidade.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Compatibilidade\Compatibilidade\obj\Debug\Compatibilidade.exe
+D:\Projetos C#\Compatibilidade\Compatibilidade\obj\Debug\Compatibilidade.pdb

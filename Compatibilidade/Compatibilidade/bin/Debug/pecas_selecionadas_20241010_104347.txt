@@ -1,0 +1,9 @@
+=== Peças Selecionadas ===
+=== Sugestão para orçamento entre 2800 a 3500 Reais ===
+Processador: Intel Core i5-11400F
+Placa de Vídeo: NVIDIA GTX 1660 Super
+Memória RAM: 16GB DDR4
+Placa Mãe: ASUS TUF B560M
+Armazenamento: SSD 512GB NVMe
+Gabinete: Cooler Master MasterBox Q300L
+Fonte: EVGA 500W 80 Plus Bronze
